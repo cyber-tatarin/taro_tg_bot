@@ -1,0 +1,5 @@
+__pycache__
+logs
+test.py
+test2.py
+*.html
